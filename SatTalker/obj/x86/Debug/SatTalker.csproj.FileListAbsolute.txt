@@ -22,5 +22,3 @@ C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\bin\De
 C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\bin\Debug\SpaceHardwareClubLibrary.pdb
 D:\lifeboat from laptop\VS2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.exe
 D:\lifeboat from laptop\VS2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.pdb
-D:\GitHub Repos\SatTalker\SatTalker\obj\x86\Debug\SatTalker.exe
-D:\GitHub Repos\SatTalker\SatTalker\obj\x86\Debug\SatTalker.pdb
