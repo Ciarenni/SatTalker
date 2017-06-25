@@ -1,0 +1,24 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\bin\Debug\SatTalker.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\bin\Debug\SatTalker.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.SatTalker.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.SerialPortSetup.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\bin\Debug\SatTalker.exe
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\bin\Debug\SatTalker.pdb
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.SatTalker.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.Properties.Resources.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.SerialPortSetup.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.exe
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\bin\Debug\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\bin\Debug\SpaceHardwareClubLibrary.pdb
+D:\lifeboat from laptop\VS2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.exe
+D:\lifeboat from laptop\VS2010\Projects\SatTalker\SatTalker\obj\x86\Debug\SatTalker.pdb

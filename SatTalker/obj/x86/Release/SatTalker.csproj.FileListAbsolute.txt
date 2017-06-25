@@ -1,0 +1,30 @@
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\bin\Release\SatTalker.exe
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\bin\Release\SatTalker.pdb
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\obj\x86\Release\SatTalker.Properties.Resources.resources
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\obj\x86\Release\SatTalker.exe
+C:\Users\Justin\AppData\Local\Temporary Projects\SatTalker\obj\x86\Release\SatTalker.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\bin\Release\SatTalker.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\bin\Release\SatTalker.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Justin\documents\visual studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.SerialPortSetup.resources
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.SatTalker.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.exe
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.pdb
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\bin\Release\SatTalker.exe
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\bin\Release\SatTalker.pdb
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.SatTalker.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.Properties.Resources.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\SatTalker.SerialPortSetup.resources
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\GenerateResource.read.1.tlog
+I:\Visual Studio 2010 Projects\SatTalker\SatTalker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\bin\Release\SpaceHardwareClubLibrary.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\SatTalker\SatTalker\bin\Release\SpaceHardwareClubLibrary.pdb

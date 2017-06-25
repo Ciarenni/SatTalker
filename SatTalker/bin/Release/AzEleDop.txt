@@ -1,0 +1,4 @@
+Azi: 0.0
+Ele: 0.0
+DopLis: 0 Hz
+DopTal: 0 Hz
